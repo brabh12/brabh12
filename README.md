@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabah Bouchemat</h1>
 <h3 align="center">"Crafting Dynamic & Scalable Web Solutions: Bridging Frontend Creativity with Backend Precision"</h3>
-<iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="400" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">
 
 - 🔭 I am currently working as a **Freelancer**
 
